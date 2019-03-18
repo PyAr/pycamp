@@ -2,4 +2,4 @@
 
 PyCamp Projects
 
-* `Buscando un lugar <BuscandoLugar.md>`_
+* [Buscando un lugar](BuscandoLugar.md)
